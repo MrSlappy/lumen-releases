@@ -28,6 +28,12 @@ Bring your own addons and your Real-Debrid account. Prism turns them into a home
 - **Made for binge-watching.** Skip intro, next episode, and it remembers the source you like.
 - **Updates itself.** New versions download in the background. One click to restart.
 
+## See it in action
+
+<a href="https://github.com/MrSlappy/prism-releases/blob/main/media/prism-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 1:34 tour of Prism" width="100%"></a>
+
+A 1:34 tour with music: browsing, sources, the player and its languages, clips, profiles, and everything new in 1.2 (skip intro, next episode, timing, Play on TV and automatic updates). [Download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/prism-showcase.mp4).
+
 ## A look around
 
 <table>
