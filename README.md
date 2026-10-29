@@ -7,7 +7,6 @@
 **A glassy, addon-powered streaming app for Windows.**
 Bring your own addons and your Real-Debrid account. Lumen turns them into a home screen you'll actually enjoy.
 
-<sub>Formerly Prism. Updating from Prism keeps your addons, profiles and history.</sub>
 
 [![Latest release](https://img.shields.io/github/v/release/MrSlappy/lumen-releases?label=latest&color=ff2e55)](https://github.com/MrSlappy/lumen-releases/releases/latest)
 [![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/MrSlappy/lumen-releases/releases/latest)
