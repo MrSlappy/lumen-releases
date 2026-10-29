@@ -9,11 +9,11 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 
 <sub>Formerly Prism. Updating from Prism keeps your addons, profiles and history.</sub>
 
-[![Latest release](https://img.shields.io/github/v/release/MrSlappy/prism-releases?label=latest&color=ff2e55)](https://github.com/MrSlappy/prism-releases/releases/latest)
-[![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/MrSlappy/prism-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/MrSlappy/prism-releases/total?color=8b6bff)](https://github.com/MrSlappy/prism-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/MrSlappy/lumen-releases?label=latest&color=ff2e55)](https://github.com/MrSlappy/lumen-releases/releases/latest)
+[![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/MrSlappy/lumen-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/MrSlappy/lumen-releases/total?color=8b6bff)](https://github.com/MrSlappy/lumen-releases/releases)
 
-**[⬇ Download Lumen for Windows](https://github.com/MrSlappy/prism-releases/releases/latest)**
+**[⬇ Download Lumen for Windows](https://github.com/MrSlappy/lumen-releases/releases/latest)**
 
 <img src="media/home.jpg" alt="Lumen home screen" width="100%">
 
@@ -32,9 +32,9 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 
 ## See it in action
 
-<a href="https://mrslappy.github.io/prism-releases/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:58 tour of Lumen" width="100%"></a>
+<a href="https://mrslappy.github.io/lumen-releases/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:58 tour of Lumen" width="100%"></a>
 
-A 2:58 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles and kids profiles, skip intro, next episode, the episodes menu, timing, Play on TV and automatic updates. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/lumen-showcase.mp4).
+A 2:58 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles and kids profiles, skip intro, next episode, the episodes menu, timing, Play on TV and automatic updates. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/lumen-releases/raw/main/media/lumen-showcase.mp4).
 
 ## A look around
 
@@ -88,7 +88,7 @@ A 2:58 guided tour with music that zooms in on each feature: browsing, sources, 
 
 ## Install
 
-1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/prism-releases/releases/latest).
+1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/lumen-releases/releases/latest).
 2. Run it. Windows SmartScreen may say *"Windows protected your PC"* because the app isn't code-signed yet. Choose **More info → Run anyway**.
 3. Open Lumen, go to **Addons** and paste the link of the addons you use, then **Settings → Link Real-Debrid** if you have an account.
 
@@ -126,4 +126,4 @@ It ships an unmodified [FFmpeg](https://ffmpeg.org/) 6.1.1 build from [gyan.dev]
 
 ---
 
-<div align="center"><sub>Lumen for Windows · made with Electron and FFmpeg · <a href="https://github.com/MrSlappy/prism-releases/releases">All releases</a></sub></div>
+<div align="center"><sub>Lumen for Windows · made with Electron and FFmpeg · <a href="https://github.com/MrSlappy/lumen-releases/releases">All releases</a></sub></div>
