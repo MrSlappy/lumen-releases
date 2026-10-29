@@ -87,13 +87,13 @@ A 2:58 guided tour with music that zooms in on each feature: browsing, sources, 
 
 ## Install
 
-1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/lumen-releases/releases/latest).
+1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/lumen-releases/releases/latest). On an ARM PC (Snapdragon / Copilot+ laptops), take **`Lumen-Setup-x.y.z-arm64.exe`** instead.
 2. Run it. Windows SmartScreen may say *"Windows protected your PC"* because the app isn't code-signed yet. Choose **More info → Run anyway**.
 3. Open Lumen, go to **Addons** and paste the link of the addons you use, then **Settings → Link Real-Debrid** if you have an account.
 
 Updating is automatic from version **1.2.1** on. Prefer no install? There's a **portable** `.exe` in each release too, but it doesn't update itself.
 
-**Needs:** Windows 10 or 11 (64-bit). A Real-Debrid premium account is optional, but most stream addons need one.
+**Needs:** Windows 10 or 11 (64-bit), or Windows 11 on ARM. A Real-Debrid premium account is optional, but most stream addons need one.
 
 ## Keyboard shortcuts
 
