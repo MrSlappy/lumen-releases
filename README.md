@@ -1,25 +1,27 @@
 <div align="center">
 
-<img src="media/icon.png" width="96" alt="Prism icon">
+<img src="media/icon.png" width="96" alt="Lumen icon">
 
-# Prism
+# Lumen
 
 **A glassy, addon-powered streaming app for Windows.**
-Bring your own addons and your Real-Debrid account. Prism turns them into a home screen you'll actually enjoy.
+Bring your own addons and your Real-Debrid account. Lumen turns them into a home screen you'll actually enjoy.
+
+<sub>Formerly Prism. Updating from Prism keeps your addons, profiles and history.</sub>
 
 [![Latest release](https://img.shields.io/github/v/release/MrSlappy/prism-releases?label=latest&color=ff2e55)](https://github.com/MrSlappy/prism-releases/releases/latest)
 [![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/MrSlappy/prism-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MrSlappy/prism-releases/total?color=8b6bff)](https://github.com/MrSlappy/prism-releases/releases)
 
-**[⬇ Download Prism for Windows](https://github.com/MrSlappy/prism-releases/releases/latest)**
+**[⬇ Download Lumen for Windows](https://github.com/MrSlappy/prism-releases/releases/latest)**
 
-<img src="media/home.jpg" alt="Prism home screen" width="100%">
+<img src="media/home.jpg" alt="Lumen home screen" width="100%">
 
 </div>
 
 ---
 
-## Why Prism
+## Why Lumen
 
 - **Glass design.** Frosted panels, artwork-tinted light, big type. Somewhere between Netflix and Nuvio.
 - **Your addons.** Works with Stremio-compatible addons: catalogs, metadata, streams and subtitles.
@@ -30,7 +32,7 @@ Bring your own addons and your Real-Debrid account. Prism turns them into a home
 
 ## See it in action
 
-<a href="https://mrslappy.github.io/prism-releases/media/prism-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:49 tour of Prism" width="100%"></a>
+<a href="https://mrslappy.github.io/prism-releases/media/prism-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:49 tour of Lumen" width="100%"></a>
 
 A 2:49 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles, and everything new in 1.2 (skip intro, next episode, timing, Play on TV and automatic updates). Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/prism-showcase.mp4)..
 
@@ -42,7 +44,7 @@ A 2:49 guided tour with music that zooms in on each feature: browsing, sources, 
     <td width="50%"><img src="media/detail.jpg" alt="Title details with sources"><br><b>Details and sources</b><br>Every source in one list, with quality, size and sound format. <i>Your pick</i> marks the one you chose last time.</td>
   </tr>
   <tr>
-    <td><img src="media/episodes.jpg" alt="Episodes list"><br><b>Seasons and episodes</b><br>Prism remembers where you stopped in every show.</td>
+    <td><img src="media/episodes.jpg" alt="Episodes list"><br><b>Seasons and episodes</b><br>Lumen remembers where you stopped in every show.</td>
     <td><img src="media/search.jpg" alt="Search"><br><b>Search everything</b><br>One search across all the catalogs you have installed.</td>
   </tr>
   <tr>
@@ -59,7 +61,7 @@ A 2:49 guided tour with music that zooms in on each feature: browsing, sources, 
   </tr>
 </table>
 
-<sub>Screenshots use a demo catalog with made-up titles and artwork. Prism shows whatever your own addons provide.</sub>
+<sub>Screenshots use a demo catalog with made-up titles and artwork. Lumen shows whatever your own addons provide.</sub>
 
 ## All the features
 
@@ -73,16 +75,16 @@ A 2:49 guided tour with music that zooms in on each feature: browsing, sources, 
 | ⏱️ **Timing** | Shift subtitles or sound in 0.1 s steps when they're out of sync |
 | ⏭️ **Binge mode** | Skip intro / recap, next-episode countdown, remembered source per show |
 | ✂️ **Clips** | Save the last 15, 30 or 60 seconds as an MP4, or a full-resolution still (HDR converted to normal color) |
-| 📺 **Play on TV** | Send what you're watching to the Prism channel on a Roku |
+| 📺 **Play on TV** | Send what you're watching to the Lumen channel on a Roku |
 | 👥 **Profiles** | Separate history, list and settings per person, custom avatars |
 | 🔄 **Auto-update** | Checks this page, downloads in the background, verifies the file, installs on restart |
 | 🎞️ **VLC hand-off** | One click to open any source in VLC, or make VLC the default player |
 
 ## Install
 
-1. Download **`Prism-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/prism-releases/releases/latest).
+1. Download **`Lumen-Setup-x.y.z.exe`** from the [latest release](https://github.com/MrSlappy/prism-releases/releases/latest).
 2. Run it. Windows SmartScreen may say *"Windows protected your PC"* because the app isn't code-signed yet. Choose **More info → Run anyway**.
-3. Open Prism, go to **Addons** and paste the link of the addons you use, then **Settings → Link Real-Debrid** if you have an account.
+3. Open Lumen, go to **Addons** and paste the link of the addons you use, then **Settings → Link Real-Debrid** if you have an account.
 
 Updating is automatic from version **1.2.1** on. Prefer no install? There's a **portable** `.exe` in each release too, but it doesn't update itself.
 
@@ -102,19 +104,19 @@ Updating is automatic from version **1.2.1** on. Prefer no install? There's a **
 ## Questions
 
 **Where do the movies come from?**
-Prism doesn't host, index or provide any content. Like Stremio, it only shows what the addons *you* install return, and plays links through services *you* connect. You're responsible for what you install and watch.
+Lumen doesn't host, index or provide any content. Like Stremio, it only shows what the addons *you* install return, and plays links through services *you* connect. You're responsible for what you install and watch.
 
 **A source has no sound.**
-Prism detects Dolby/DTS sound and fixes it automatically. If a file still won't play, use **Open in VLC** in the player.
+Lumen detects Dolby/DTS sound and fixes it automatically. If a file still won't play, use **Open in VLC** in the player.
 
 **Does it phone home?**
-No accounts, no tracking. Prism talks to your addons, Real-Debrid (if linked), OpenSubtitles (if installed) and this GitHub page to check for updates.
+No accounts, no tracking. Lumen talks to your addons, Real-Debrid (if linked), OpenSubtitles (if installed) and this GitHub page to check for updates.
 
 ## Credits and licenses
 
-Prism is built with [Electron](https://www.electronjs.org/) (MIT) and [hls.js](https://github.com/video-dev/hls.js) (Apache-2.0), with Manrope and Syne fonts (SIL Open Font License).
+Lumen is built with [Electron](https://www.electronjs.org/) (MIT) and [hls.js](https://github.com/video-dev/hls.js) (Apache-2.0), with Manrope and Syne fonts (SIL Open Font License).
 It ships an unmodified [FFmpeg](https://ffmpeg.org/) 6.1.1 build from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) via [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static), licensed under the GPL v3; its source code is available from [ffmpeg.org](https://ffmpeg.org/download.html#releases) and the gyan.dev build page.
 
 ---
 
-<div align="center"><sub>Prism for Windows · made with Electron and FFmpeg · <a href="https://github.com/MrSlappy/prism-releases/releases">All releases</a></sub></div>
+<div align="center"><sub>Lumen for Windows · made with Electron and FFmpeg · <a href="https://github.com/MrSlappy/prism-releases/releases">All releases</a></sub></div>
