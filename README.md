@@ -34,7 +34,7 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 
 <a href="https://mrslappy.github.io/prism-releases/media/prism-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:49 tour of Lumen" width="100%"></a>
 
-A 2:49 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles, and everything new in 1.2 (skip intro, next episode, timing, Play on TV and automatic updates). Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/prism-showcase.mp4)..
+A 2:49 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles, skip intro, next episode, timing, Play on TV and automatic updates. It was recorded when the app was still called Prism. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/prism-showcase.mp4).
 
 ## A look around
 
@@ -48,7 +48,7 @@ A 2:49 guided tour with music that zooms in on each feature: browsing, sources, 
     <td><img src="media/search.jpg" alt="Search"><br><b>Search everything</b><br>One search across all the catalogs you have installed.</td>
   </tr>
   <tr>
-    <td><img src="media/player.jpg" alt="The player with subtitles"><br><b>The player</b><br>Glass controls, keyboard shortcuts, resume where you left off.</td>
+    <td><img src="media/player.jpg" alt="The player"><br><b>The player</b><br>Glass controls, keyboard shortcuts, resume where you left off. Press <code>E</code> to jump to another episode.</td>
     <td><img src="media/player-languages.jpg" alt="Audio and subtitle menu"><br><b>Languages</b><br>Switch audio language and subtitles (from the file or OpenSubtitles), resize them, fix their timing.</td>
   </tr>
   <tr>
@@ -56,8 +56,8 @@ A 2:49 guided tour with music that zooms in on each feature: browsing, sources, 
     <td><img src="media/next-episode.jpg" alt="Next episode card"><br><b>Next episode</b><br>At the credits, the next episode starts by itself with the same kind of source and your languages.</td>
   </tr>
   <tr>
-    <td><img src="media/profiles.jpg" alt="Who's watching"><br><b>Profiles</b><br>Everyone gets their own history, My List, subtitle settings and avatar (12 built in, or your own picture).</td>
-    <td><img src="media/settings.jpg" alt="Settings"><br><b>Settings</b><br>Real-Debrid, playback, next episode, clips and updates in one place.</td>
+    <td><img src="media/profiles.jpg" alt="Who's watching"><br><b>Profiles</b><br>Everyone gets their own history, My List, subtitle settings and avatar. Kids profiles only show titles rated for their age.</td>
+    <td><img src="media/settings.jpg" alt="Settings"><br><b>Settings</b><br>Your account, Real-Debrid, Usenet, playback, clips and updates in one place.</td>
   </tr>
 </table>
 
@@ -68,15 +68,21 @@ A 2:49 guided tour with music that zooms in on each feature: browsing, sources, 
 | | |
 |---|---|
 | 🎬 **Browse** | Home, Movies and Series pages, rotating hero, Top 10, Continue watching, My List |
+| 🏷️ **Genres** | Pick a genre on Movies and Series, plus picks from around the world: K-drama, Bollywood and more |
+| 🌸 **Anime** | Its own tab: browse by genre, year, season, tag and studio, search with an optional 18+ switch, and a separate Anime shelf in Library |
 | 🧩 **Addons** | Install any Stremio-compatible addon from its link (or `stremio://` link); turn each on or off |
-| ⚡ **Real-Debrid** | Device-code linking, plays torrent sources, browse your Real-Debrid downloads and torrents in Library |
+| 🔌 **Plugins** | Add Nuvio-style provider repositories; they run in a locked-down sandbox and their sources load alongside your addons |
+| ⚡ **Real-Debrid** | Device-code linking, plays torrent sources, browse your Real-Debrid downloads and torrents in Library. Blocked or missing files are skipped automatically |
+| 📰 **Usenet** | TorBox (NZB results from your addons) and Easynews (searched for every title) next to your torrent sources |
+| 🔎 **Sources** | Every addon and plugin loads at the same time; language tags and a language filter on each source |
 | 🔊 **Sound fix** | Dolby Digital, DD+, TrueHD and DTS converted to AAC while you watch, picture untouched |
-| 🌍 **Languages** | Pick any audio track in the file, subtitles from the file or from OpenSubtitles, three sizes, auto-select your language |
+| 🌍 **Languages** | Pick any audio track in the file, subtitles from the file (picture subtitles included) or from OpenSubtitles, three sizes, auto-select your language |
 | ⏱️ **Timing** | Shift subtitles or sound in 0.1 s steps when they're out of sync |
 | ⏭️ **Binge mode** | Skip intro / recap, next-episode countdown, remembered source per show |
 | ✂️ **Clips** | Save the last 15, 30 or 60 seconds as an MP4, or a full-resolution still (HDR converted to normal color) |
 | 📺 **Play on TV** | Send what you're watching to the Lumen channel on a Roku |
-| 👥 **Profiles** | Separate history, list and settings per person, custom avatars |
+| 👥 **Profiles** | Separate history, list and settings per person, custom avatars, kids profiles with an age limit and a parent PIN |
+| ☁️ **Account** | Optional sign-in with email or Google keeps your addons, profiles and history in sync across PCs; addon links are locked with your own PIN |
 | 🔄 **Auto-update** | Checks this page, downloads in the background, verifies the file, installs on restart |
 | 🎞️ **VLC hand-off** | One click to open any source in VLC, or make VLC the default player |
 
@@ -99,6 +105,7 @@ Updating is automatic from version **1.2.1** on. Prefer no install? There's a **
 | `↑` `↓` | Volume | `S` | Skip intro |
 | `F` | Full screen | `N` | Next episode |
 | `M` | Mute | `G` / `H` | Subtitles earlier / later |
+| `E` | Episodes | | |
 | `Esc` | Close the player | `Shift`+`G` / `H` | Sound earlier / later |
 
 ## Questions
@@ -110,7 +117,7 @@ Lumen doesn't host, index or provide any content. Like Stremio, it only shows wh
 Lumen detects Dolby/DTS sound and fixes it automatically. If a file still won't play, use **Open in VLC** in the player.
 
 **Does it phone home?**
-No accounts, no tracking. Lumen talks to your addons, Real-Debrid (if linked), OpenSubtitles (if installed) and this GitHub page to check for updates.
+No tracking. Lumen talks to your addons, the services you connect (Real-Debrid, TorBox, Easynews), OpenSubtitles (if installed), TMDB and AniList for genres, anime and age ratings, and this GitHub page to check for updates. An account is optional: if you sign in, your saved data is stored in your account so it can sync, with your addon links encrypted by a PIN only you know.
 
 ## Credits and licenses
 
