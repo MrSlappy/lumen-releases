@@ -32,9 +32,9 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 
 ## See it in action
 
-<a href="https://mrslappy.github.io/prism-releases/media/prism-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:49 tour of Lumen" width="100%"></a>
+<a href="https://mrslappy.github.io/prism-releases/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:58 tour of Lumen" width="100%"></a>
 
-A 2:49 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles, skip intro, next episode, timing, Play on TV and automatic updates. It was recorded when the app was still called Prism. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/prism-showcase.mp4).
+A 2:58 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles and kids profiles, skip intro, next episode, the episodes menu, timing, Play on TV and automatic updates. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/prism-releases/raw/main/media/lumen-showcase.mp4).
 
 ## A look around
 
