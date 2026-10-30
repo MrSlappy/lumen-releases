@@ -12,7 +12,7 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 [![Windows 10/11](https://img.shields.io/badge/Windows-10%20%7C%2011-3a5bff)](https://github.com/MrSlappy/lumen-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MrSlappy/lumen-releases/total?color=8b6bff)](https://github.com/MrSlappy/lumen-releases/releases)
 
-**[⬇ Download Lumen for Windows](https://github.com/MrSlappy/lumen-releases/releases/latest)**
+**[⬇ Download Lumen for Windows](https://github.com/MrSlappy/lumen-releases/releases/latest)** · [getlumen.pages.dev](https://getlumen.pages.dev)
 
 <img src="media/home.jpg" alt="Lumen home screen" width="100%">
 
@@ -31,7 +31,7 @@ Bring your own addons and your Real-Debrid account. Lumen turns them into a home
 
 ## See it in action
 
-<a href="https://mrslappy.github.io/lumen-releases/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:58 tour of Lumen" width="100%"></a>
+<a href="https://getlumen.pages.dev/media/lumen-showcase.mp4"><img src="media/showcase-preview.jpg" alt="Watch the 2:58 tour of Lumen" width="100%"></a>
 
 A 2:58 guided tour with music that zooms in on each feature: browsing, sources, the player and its languages, clips, profiles and kids profiles, skip intro, next episode, the episodes menu, timing, Play on TV and automatic updates. Tap the picture to play it in your browser, or [download the video](https://github.com/MrSlappy/lumen-releases/raw/main/media/lumen-showcase.mp4).
 
